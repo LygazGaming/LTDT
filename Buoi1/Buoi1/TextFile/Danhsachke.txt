@@ -1,0 +1,5 @@
+Đỉnh 0 có bậc 2
+Đỉnh 1 có bậc 3
+Đỉnh 2 có bậc 3
+Đỉnh 3 có bậc 1
+Đỉnh 4 có bậc 3

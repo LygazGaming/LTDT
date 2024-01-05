@@ -1,0 +1,7 @@
+C:\Users\LongSeaGamer\source\repos\Buoi1\Buoi1\bin\Debug\Buoi1.exe.config
+C:\Users\LongSeaGamer\source\repos\Buoi1\Buoi1\bin\Debug\Buoi1.exe
+C:\Users\LongSeaGamer\source\repos\Buoi1\Buoi1\bin\Debug\Buoi1.pdb
+C:\Users\LongSeaGamer\source\repos\Buoi1\Buoi1\obj\Debug\Buoi1.csproj.AssemblyReference.cache
+C:\Users\LongSeaGamer\source\repos\Buoi1\Buoi1\obj\Debug\Buoi1.csproj.CoreCompileInputs.cache
+C:\Users\LongSeaGamer\source\repos\Buoi1\Buoi1\obj\Debug\Buoi1.exe
+C:\Users\LongSeaGamer\source\repos\Buoi1\Buoi1\obj\Debug\Buoi1.pdb

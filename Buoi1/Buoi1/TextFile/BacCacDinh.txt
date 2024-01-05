@@ -1,0 +1,12 @@
+Bật của các đỉnh:
+0 : 2
+Bật của các đỉnh:
+1 : 3
+Bật của các đỉnh:
+2 : 4
+Bật của các đỉnh:
+3 : 2
+Bật của các đỉnh:
+4 : 3
+Bật của các đỉnh:
+5 : 4
